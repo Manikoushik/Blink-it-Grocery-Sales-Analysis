@@ -38,7 +38,7 @@ To design an interactive and insightful dashboard for Blinkit that helps:
 
 | Blinkit Sales Dashboard |
 |-------------------------|
-| ![Dashboard](Dashboard.Dashboard.png) |
+| ![Dashboard](Dashboard/Dashboard.png) |
 
 ---
 
